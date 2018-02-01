@@ -15,3 +15,5 @@ a = 10L;//long
 a = 10f;//float
 a = 10d;//double
 a = short(10);//short 
+
+byte foo = ((byte)128)&((byte)2) 
